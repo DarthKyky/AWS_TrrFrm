@@ -3,7 +3,7 @@
 
 terraform {
   backend "s3" {
-    bucket         = "terraform-state-spring-boot-app-dyemAWS"
+    bucket         = "terraform-state-spring-boot-app-dyemAWS-tuke-student"
     key            = "terraform.tfstate"
     region         = "us-east-1"
     encrypt        = true
