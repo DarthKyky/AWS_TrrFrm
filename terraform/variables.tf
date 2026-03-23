@@ -53,5 +53,5 @@ variable "common_tags" {
 variable "alarm_email" {
 description = "Billing alarm email"
   type        = string
-  default     = "emelianoff.damiangmail.com"
+  default     = "emelianoff.damian@gmail.com"
 }
